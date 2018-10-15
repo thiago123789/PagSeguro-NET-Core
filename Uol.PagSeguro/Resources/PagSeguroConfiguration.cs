@@ -117,7 +117,7 @@ namespace Uol.PagSeguro.Resources
         {
             get
             {
-                return new Uri(GetUrlValue(PagSeguroConfigSerializer.Notification));
+                return new Uri(PagSeguroUrls.Notification);
             }
         }
 
