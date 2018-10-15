@@ -61,6 +61,114 @@ namespace Uol.PagSeguro {
         }
         
         /// <summary>
+        ///   Consulta uma cadeia de caracteres localizada semelhante a https://ws.pagseguro.uol.com.br/v2/authorizations/notifications/.
+        /// </summary>
+        internal static string AuthorizationNotification {
+            get {
+                return ResourceManager.GetString("AuthorizationNotification", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta uma cadeia de caracteres localizada semelhante a https://ws.pagseguro.uol.com.br/v2/authorizations/request.
+        /// </summary>
+        internal static string AuthorizationRequest {
+            get {
+                return ResourceManager.GetString("AuthorizationRequest", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta uma cadeia de caracteres localizada semelhante a https://ws.pagseguro.uol.com.br/v2/authorizations/.
+        /// </summary>
+        internal static string AuthorizationSearch {
+            get {
+                return ResourceManager.GetString("AuthorizationSearch", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta uma cadeia de caracteres localizada semelhante a https://pagseguro.uol.com.br/v2/authorization/request.jhtml.
+        /// </summary>
+        internal static string AuthorizationURL {
+            get {
+                return ResourceManager.GetString("AuthorizationURL", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta uma cadeia de caracteres localizada semelhante a https://ws.pagseguro.uol.com.br/v2/transactions/cancels.
+        /// </summary>
+        internal static string Cancel {
+            get {
+                return ResourceManager.GetString("Cancel", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta uma cadeia de caracteres localizada semelhante a https://ws.pagseguro.uol.com.br/v2/installments.
+        /// </summary>
+        internal static string DirectPaymentInstallment {
+            get {
+                return ResourceManager.GetString("DirectPaymentInstallment", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta uma cadeia de caracteres localizada semelhante a https://ws.pagseguro.uol.com.br/v2/sessions.
+        /// </summary>
+        internal static string DirectPaymentSession {
+            get {
+                return ResourceManager.GetString("DirectPaymentSession", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta uma cadeia de caracteres localizada semelhante a https://ws.pagseguro.uol.com.br/v2/transactions.
+        /// </summary>
+        internal static string DirectPaymentTransactions {
+            get {
+                return ResourceManager.GetString("DirectPaymentTransactions", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta uma cadeia de caracteres localizada semelhante a ISO-8859-1.
+        /// </summary>
+        internal static string Encoding {
+            get {
+                return ResourceManager.GetString("Encoding", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta uma cadeia de caracteres localizada semelhante a application/x-www-form-urlencoded.
+        /// </summary>
+        internal static string FormUrlEncoded {
+            get {
+                return ResourceManager.GetString("FormUrlEncoded", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta uma cadeia de caracteres localizada semelhante a 2.4.0.
+        /// </summary>
+        internal static string LibVersion {
+            get {
+                return ResourceManager.GetString("LibVersion", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta uma cadeia de caracteres localizada semelhante a https://ws.pagseguro.uol.com.br/v3/transactions/notifications.
+        /// </summary>
+        internal static string Notification {
+            get {
+                return ResourceManager.GetString("Notification", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Consulta uma cadeia de caracteres localizada semelhante a https://ws.pagseguro.uol.com.br/v2/checkout.
         /// </summary>
         internal static string Payment {
@@ -75,6 +183,105 @@ namespace Uol.PagSeguro {
         internal static string PaymentRedirect {
             get {
                 return ResourceManager.GetString("PaymentRedirect", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta uma cadeia de caracteres localizada semelhante a https://ws.pagseguro.uol.com.br/v2/pre-approvals/request.
+        /// </summary>
+        internal static string PreApproval {
+            get {
+                return ResourceManager.GetString("PreApproval", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta uma cadeia de caracteres localizada semelhante a https://ws.pagseguro.uol.com.br/v2/pre-approvals/cancel.
+        /// </summary>
+        internal static string PreApprovalCancel {
+            get {
+                return ResourceManager.GetString("PreApprovalCancel", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta uma cadeia de caracteres localizada semelhante a https://ws.pagseguro.uol.com.br/v2/pre-approvals/notifications.
+        /// </summary>
+        internal static string PreApprovalNotification {
+            get {
+                return ResourceManager.GetString("PreApprovalNotification", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta uma cadeia de caracteres localizada semelhante a https://ws.pagseguro.uol.com.br/v2/pre-approvals/payment.
+        /// </summary>
+        internal static string PreApprovalPayment {
+            get {
+                return ResourceManager.GetString("PreApprovalPayment", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta uma cadeia de caracteres localizada semelhante a https://pagseguro.uol.com.br/v2/pre-approvals/request.html.
+        /// </summary>
+        internal static string PreApprovalRedirect {
+            get {
+                return ResourceManager.GetString("PreApprovalRedirect", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta uma cadeia de caracteres localizada semelhante a https://ws.pagseguro.uol.com.br/v2/pre-approvals/request.
+        /// </summary>
+        internal static string PreApprovalRequest {
+            get {
+                return ResourceManager.GetString("PreApprovalRequest", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta uma cadeia de caracteres localizada semelhante a https://ws.pagseguro.uol.com.br/v2/pre-approvals.
+        /// </summary>
+        internal static string PreApprovalSearch {
+            get {
+                return ResourceManager.GetString("PreApprovalSearch", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta uma cadeia de caracteres localizada semelhante a https://ws.pagseguro.uol.com.br/v2/transactions/refunds.
+        /// </summary>
+        internal static string Refund {
+            get {
+                return ResourceManager.GetString("Refund", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta uma cadeia de caracteres localizada semelhante a 10000.
+        /// </summary>
+        internal static string RequestTimeout {
+            get {
+                return ResourceManager.GetString("RequestTimeout", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta uma cadeia de caracteres localizada semelhante a https://ws.pagseguro.uol.com.br/v3/transactions.
+        /// </summary>
+        internal static string Search {
+            get {
+                return ResourceManager.GetString("Search", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta uma cadeia de caracteres localizada semelhante a https://ws.pagseguro.uol.com.br/v2/transactions.
+        /// </summary>
+        internal static string SearchAbandoned {
+            get {
+                return ResourceManager.GetString("SearchAbandoned", resourceCulture);
             }
         }
     }
