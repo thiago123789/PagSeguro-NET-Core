@@ -133,6 +133,33 @@ namespace Uol.PagSeguro {
         }
         
         /// <summary>
+        ///   Consulta uma cadeia de caracteres localizada semelhante a ISO-8859-1.
+        /// </summary>
+        internal static string Encoding {
+            get {
+                return ResourceManager.GetString("Encoding", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta uma cadeia de caracteres localizada semelhante a application/x-www-form-urlencoded.
+        /// </summary>
+        internal static string FormUrlEncoded {
+            get {
+                return ResourceManager.GetString("FormUrlEncoded", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta uma cadeia de caracteres localizada semelhante a 2.4.0.
+        /// </summary>
+        internal static string LibVersion {
+            get {
+                return ResourceManager.GetString("LibVersion", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Consulta uma cadeia de caracteres localizada semelhante a https://ws.pagseguro.uol.com.br/v3/transactions/notifications.
         /// </summary>
         internal static string Notification {
@@ -228,6 +255,15 @@ namespace Uol.PagSeguro {
         internal static string Refund {
             get {
                 return ResourceManager.GetString("Refund", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta uma cadeia de caracteres localizada semelhante a 10000.
+        /// </summary>
+        internal static string RequestTimeout {
+            get {
+                return ResourceManager.GetString("RequestTimeout", resourceCulture);
             }
         }
         

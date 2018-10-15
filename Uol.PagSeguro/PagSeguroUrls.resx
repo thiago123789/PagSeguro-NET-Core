@@ -141,6 +141,15 @@
   <data name="DirectPaymentTransactions" xml:space="preserve">
     <value>https://ws.pagseguro.uol.com.br/v2/transactions</value>
   </data>
+  <data name="Encoding" xml:space="preserve">
+    <value>ISO-8859-1</value>
+  </data>
+  <data name="FormUrlEncoded" xml:space="preserve">
+    <value>application/x-www-form-urlencoded</value>
+  </data>
+  <data name="LibVersion" xml:space="preserve">
+    <value>2.4.0</value>
+  </data>
   <data name="Notification" xml:space="preserve">
     <value>https://ws.pagseguro.uol.com.br/v3/transactions/notifications</value>
   </data>
@@ -173,6 +182,9 @@
   </data>
   <data name="Refund" xml:space="preserve">
     <value>https://ws.pagseguro.uol.com.br/v2/transactions/refunds</value>
+  </data>
+  <data name="RequestTimeout" xml:space="preserve">
+    <value>10000</value>
   </data>
   <data name="Search" xml:space="preserve">
     <value>https://ws.pagseguro.uol.com.br/v3/transactions</value>

@@ -13,11 +13,14 @@
 //   limitations under the License.
 
 using System;
+using System.Collections;
 using System.Xml;
 using Uol.PagSeguro.Domain;
 using Uol.PagSeguro.XmlParse;
 using System.Reflection;
 using System.Diagnostics;
+using System.Globalization;
+using System.Resources;
 using System.Web;
 using System.Text.RegularExpressions;
 using Uol.PagSeguro.Exception;
