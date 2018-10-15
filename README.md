@@ -1,0 +1,1 @@
+### PagSeguro API .NET Core
