@@ -14,7 +14,7 @@
 
 using System.Collections.Generic;
 
-namespace Uol.PagSeguro.Domain
+namespace Nerdscode.PagSeguro.Domain
 {
     /// <summary>
     /// Represents available keys for MetaData item use in checkout transactions

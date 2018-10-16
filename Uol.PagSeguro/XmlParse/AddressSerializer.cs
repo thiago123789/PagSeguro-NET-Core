@@ -14,9 +14,9 @@
 
 using System;
 using System.Xml;
-using Uol.PagSeguro.Domain;
+using Nerdscode.PagSeguro.Domain;
 
-namespace Uol.PagSeguro.XmlParse
+namespace Nerdscode.PagSeguro.XmlParse
 {
     /// <summary>
     /// Class which deserialize request address xml

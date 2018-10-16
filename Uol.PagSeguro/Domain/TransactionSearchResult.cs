@@ -17,7 +17,7 @@ using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Text;
 
-namespace Uol.PagSeguro.Domain
+namespace Nerdscode.PagSeguro.Domain
 {
     /// <summary>
     /// Represents a page of transactions returned by the transaction search service

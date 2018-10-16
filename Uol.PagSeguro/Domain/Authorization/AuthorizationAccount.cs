@@ -16,7 +16,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Uol.PagSeguro.Domain.Authorization
+namespace Nerdscode.PagSeguro.Domain.Authorization
 {
     /// <summary>
     /// Authorization account

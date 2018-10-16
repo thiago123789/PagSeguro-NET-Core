@@ -16,7 +16,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Uol.PagSeguro.Constants
+namespace Nerdscode.PagSeguro.Constants
 {
     /// <summary>
     /// Defines a list of known authorization permission type.

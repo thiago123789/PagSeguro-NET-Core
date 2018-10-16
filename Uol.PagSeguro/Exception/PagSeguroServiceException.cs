@@ -19,9 +19,9 @@ using System.Net;
 using System.Runtime.Serialization;
 using System.Security.Permissions;
 using System.Text;
-using Uol.PagSeguro.Domain;
+using Nerdscode.PagSeguro.Domain;
 
-namespace Uol.PagSeguro.Exception
+namespace Nerdscode.PagSeguro.Exception
 {
     /// <summary>
     /// Encapsulates a problem that occurred calling a PagSeguro web service

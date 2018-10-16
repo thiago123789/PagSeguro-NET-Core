@@ -14,10 +14,10 @@
 
 using System;
 using System.Collections.Generic;
-using Uol.PagSeguro.Constants;
-using Uol.PagSeguro.Domain;
-using Uol.PagSeguro.Exception;
-using Uol.PagSeguro.Resources;
+using Nerdscode.PagSeguro.Constants;
+using Nerdscode.PagSeguro.Domain;
+using Nerdscode.PagSeguro.Exception;
+using Nerdscode.PagSeguro.Resources;
 
 namespace CreatePayment
 {

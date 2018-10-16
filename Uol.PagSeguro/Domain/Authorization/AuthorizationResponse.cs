@@ -15,9 +15,9 @@
 using System;
 using System.Collections.Generic;
 using System.Text;
-using Uol.PagSeguro.Domain.Authorization;
+using Nerdscode.PagSeguro.Domain.Authorization;
 
-namespace Uol.PagSeguro.Domain.Authorization
+namespace Nerdscode.PagSeguro.Domain.Authorization
 {
     /// <summary>
     /// Represents a authorization response, typically returned by search services.

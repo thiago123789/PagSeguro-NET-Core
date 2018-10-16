@@ -14,9 +14,9 @@
 
 using System;
 using System.Collections.Generic;
-using Uol.PagSeguro.Util;
+using Nerdscode.PagSeguro.Util;
 
-namespace Uol.PagSeguro.Domain
+namespace Nerdscode.PagSeguro.Domain
 {
     /// <summary>
     /// Represents the party on the transaction that is sending the money

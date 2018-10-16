@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using Uol.PagSeguro.Constants;
+using Nerdscode.PagSeguro.Constants;
 
-namespace Uol.PagSeguro.Domain.Direct
+namespace Nerdscode.PagSeguro.Domain.Direct
 {
     /// <summary>
     /// Represents a payment request
@@ -178,7 +178,7 @@ namespace Uol.PagSeguro.Domain.Direct
         /// </summary>
         public Checkout()
         {
-            this.Currency = Uol.PagSeguro.Constants.Currency.Brl;
+            this.Currency = Constants.Currency.Brl;
         }
 
         /// <summary>

@@ -15,10 +15,10 @@
 using System;
 using System.Collections.Generic;
 using System.Xml;
-using Uol.PagSeguro.Constants;
-using Uol.PagSeguro.Domain.Authorization;
+using Nerdscode.PagSeguro.Constants;
+using Nerdscode.PagSeguro.Domain.Authorization;
 
-namespace Uol.PagSeguro.XmlParse
+namespace Nerdscode.PagSeguro.XmlParse
 {
     /// <summary>
     /// 

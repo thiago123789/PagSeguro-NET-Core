@@ -16,7 +16,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Uol.PagSeguro.Domain
+namespace Nerdscode.PagSeguro.Domain
 {
     /// <summary>
     /// Represents a PagSeguro transaction

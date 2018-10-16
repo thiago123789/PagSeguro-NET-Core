@@ -13,7 +13,7 @@
 //   limitations under the License.
 
 
-namespace Uol.PagSeguro.Domain
+namespace Nerdscode.PagSeguro.Domain
 {
     /// <summary>
     /// Defines a list of known accepted payment names.

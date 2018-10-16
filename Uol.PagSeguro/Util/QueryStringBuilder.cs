@@ -16,9 +16,9 @@ using System;
 using System.Globalization;
 using System.Text;
 using System.Web;
-using Uol.PagSeguro.Domain;
+using Nerdscode.PagSeguro.Domain;
 
-namespace Uol.PagSeguro.Util
+namespace Nerdscode.PagSeguro.Util
 {
     /// <summary>
     /// 

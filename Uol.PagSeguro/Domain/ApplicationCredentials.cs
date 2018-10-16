@@ -13,10 +13,10 @@
 //   limitations under the License.
 
 using System;
-using Uol.PagSeguro.Exception;
-using Uol.PagSeguro.Util;
+using Nerdscode.PagSeguro.Exception;
+using Nerdscode.PagSeguro.Util;
 
-namespace Uol.PagSeguro.Domain
+namespace Nerdscode.PagSeguro.Domain
 {
     /// <summary>
     /// Identifies a PagSeguro application

@@ -14,7 +14,7 @@
 
 using System.Xml;
 
-namespace Uol.PagSeguro.XmlParse
+namespace Nerdscode.PagSeguro.XmlParse
 {
     /// <summary>
     /// 

@@ -14,9 +14,9 @@
 
 using System;
 using System.Text;
-using Uol.PagSeguro.Util;
+using Nerdscode.PagSeguro.Util;
 
-namespace Uol.PagSeguro.Domain
+namespace Nerdscode.PagSeguro.Domain
 {
     /// <summary>
     /// Represents the response from the web service after a payment request was registered

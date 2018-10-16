@@ -13,12 +13,12 @@
 //   limitations under the License.
 
 using System.Collections.Generic;
-using Uol.PagSeguro.Domain;
-using Uol.PagSeguro.Util;
-using Uol.PagSeguro.Domain.Authorization;
+using Nerdscode.PagSeguro.Domain;
+using Nerdscode.PagSeguro.Util;
 using System;
+using Nerdscode.PagSeguro.Domain.Authorization;
 
-namespace Uol.PagSeguro.Parse
+namespace Nerdscode.PagSeguro.Parse
 {
     /// <summary>
     /// 

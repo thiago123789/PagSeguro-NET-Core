@@ -17,16 +17,16 @@ using System.Collections.Generic;
 using System.Globalization;
 using System.Net;
 using System.Xml;
-using Uol.PagSeguro.Domain;
-using Uol.PagSeguro.Exception;
-using Uol.PagSeguro.Log;
-using Uol.PagSeguro.Parse;
-using Uol.PagSeguro.Resources;
-using Uol.PagSeguro.Util;
-using Uol.PagSeguro.XmlParse;
+using Nerdscode.PagSeguro.Domain;
+using Nerdscode.PagSeguro.Exception;
+using Nerdscode.PagSeguro.Log;
+using Nerdscode.PagSeguro.Parse;
+using Nerdscode.PagSeguro.XmlParse;
 using System.Web;
+using Nerdscode.PagSeguro.Resources;
+using Nerdscode.PagSeguro.Util;
 
-namespace Uol.PagSeguro.Service
+namespace Nerdscode.PagSeguro.Service
 {
     /// <summary>
     /// Encapsulates web service calls regarding PagSeguro to search pre-approvals

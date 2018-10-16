@@ -6,7 +6,7 @@ using System.Linq;
 using System.Resources;
 using System.Text;
 
-namespace Uol.PagSeguro.Util
+namespace Nerdscode.PagSeguro.Util
 {
     public class ResourceUtil
     {

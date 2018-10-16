@@ -12,11 +12,11 @@
 //   See the License for the specific language governing permissions and
 //   limitations under the License.
 
-using Uol.PagSeguro.Resources;
+using Nerdscode.PagSeguro.Resources;
 using System;
-using Uol.PagSeguro.Domain;
-using Uol.PagSeguro.Service;
-using Uol.PagSeguro.Exception;
+using Nerdscode.PagSeguro.Domain;
+using Nerdscode.PagSeguro.Service;
+using Nerdscode.PagSeguro.Exception;
 
 namespace FindPreApprovalByNotification
 {

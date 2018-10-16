@@ -4,6 +4,13 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <SignAssembly>false</SignAssembly>
+    <AssemblyName>Nerdscode.PagSeguro</AssemblyName>
+    <Company>Nerdscode</Company>
+    <Authors>Nerdscode</Authors>
+    <Description>Api PagSeguro convertida para .NET Core 2.1</Description>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <PackageProjectUrl>https://github.com/thiago123789/PagSeguro-NET-Core</PackageProjectUrl>
+    <RootNamespace>Nerdscode.PagSeguro</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

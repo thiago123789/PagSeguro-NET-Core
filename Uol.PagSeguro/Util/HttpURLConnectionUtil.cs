@@ -20,13 +20,13 @@ using System.Net.Security;
 using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Xml;
-using Uol.PagSeguro.Domain;
-using Uol.PagSeguro.Exception;
-using Uol.PagSeguro.Resources;
-using Uol.PagSeguro.XmlParse;
 using System.Collections.Specialized;
+using Nerdscode.PagSeguro.Domain;
+using Nerdscode.PagSeguro.Exception;
+using Nerdscode.PagSeguro.Resources;
+using Nerdscode.PagSeguro.XmlParse;
 
-namespace Uol.PagSeguro.Util
+namespace Nerdscode.PagSeguro.Util
 {
     /// <summary>
     /// 

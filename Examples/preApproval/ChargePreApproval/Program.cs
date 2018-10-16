@@ -14,11 +14,11 @@
 
 using System;
 using System.Net;
-using Uol.PagSeguro.Domain;
-using Uol.PagSeguro.Exception;
-using Uol.PagSeguro.Resources;
-using Uol.PagSeguro.Service;
-using Uol.PagSeguro.Constants;
+using Nerdscode.PagSeguro.Domain;
+using Nerdscode.PagSeguro.Exception;
+using Nerdscode.PagSeguro.Resources;
+using Nerdscode.PagSeguro.Service;
+using Nerdscode.PagSeguro.Constants;
 
 namespace ChargePreApproval
 {

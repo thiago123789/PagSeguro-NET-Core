@@ -14,11 +14,11 @@
 
 using System;
 using System.Net;
-using Uol.PagSeguro.Constants;
-using Uol.PagSeguro.Domain;
-using Uol.PagSeguro.Exception;
-using Uol.PagSeguro.Resources;
-using Uol.PagSeguro.Constants.PreApproval;
+using Nerdscode.PagSeguro.Constants;
+using Nerdscode.PagSeguro.Domain;
+using Nerdscode.PagSeguro.Exception;
+using Nerdscode.PagSeguro.Resources;
+using Nerdscode.PagSeguro.Constants.PreApproval;
 using System.Diagnostics;
 
 namespace CreatePreApproval
@@ -29,7 +29,7 @@ namespace CreatePreApproval
         {
 
             bool isSandbox = true;
-            EnvironmentConfiguration.ChangeEnvironment(isSandbox);
+            //EnvironmentConfiguration.ChangeEnvironment(isSandbox);
 
             // Instantiate a new preApproval request
             PreApprovalRequest preApproval = new PreApprovalRequest();
@@ -74,7 +74,7 @@ namespace CreatePreApproval
 
             try
             {
-                AccountCredentials credentials = new AccountCredentials("", "");
+                AccountCredentials credentials = new AccountCredentials("ronaldo@nerdscode.com", "2D48C3F6649B49FEA1841FD9880DA8CC");
 
                 Uri preApprovalRedirectUri = preApproval.Register(credentials);
 

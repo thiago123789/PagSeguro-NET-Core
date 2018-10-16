@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Uol.PagSeguro.Domain.Installment
+namespace Nerdscode.PagSeguro.Domain.Installment
 {
     public class Installment : IComparable<Installment>
     {

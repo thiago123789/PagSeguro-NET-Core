@@ -15,10 +15,10 @@
 using System;
 using System.Collections.Generic;
 using System.Text;
-using Uol.PagSeguro.Exception;
-using Uol.PagSeguro.Service;
+using Nerdscode.PagSeguro.Service;
+using Nerdscode.PagSeguro.Exception;
 
-namespace Uol.PagSeguro.Domain.Authorization
+namespace Nerdscode.PagSeguro.Domain.Authorization
 {
     /// <summary>
     /// Authorization request

@@ -12,7 +12,7 @@
 //   See the License for the specific language governing permissions and
 //   limitations under the License.
 
-namespace Uol.PagSeguro.Constants
+namespace Nerdscode.PagSeguro.Constants
 {
     /// <summary>
     /// Defines a list of known payment modes.

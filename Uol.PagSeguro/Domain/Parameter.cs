@@ -14,7 +14,7 @@
 
 using System.Collections.Generic;
 
-namespace Uol.PagSeguro.Domain
+namespace Nerdscode.PagSeguro.Domain
 {
     /// <summary>
     /// Represents a parameter

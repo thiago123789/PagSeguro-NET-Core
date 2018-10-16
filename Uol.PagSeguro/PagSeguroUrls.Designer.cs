@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Uol.PagSeguro {
+namespace Nerdscode.PagSeguro {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace Uol.PagSeguro {
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Uol.PagSeguro.PagSeguroUrls", typeof(PagSeguroUrls).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Nerdscode.PagSeguro.PagSeguroUrls", typeof(PagSeguroUrls).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;

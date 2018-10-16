@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\..\Uol.PagSeguro\Uol.PagSeguro.csproj" />
+    <ProjectReference Include="..\..\..\Uol.PagSeguro\Nerdscode.PagSeguro.csproj" />
   </ItemGroup>
 
 </Project>

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Uol.PagSeguro.Domain.Direct
+namespace Nerdscode.PagSeguro.Domain.Direct
 {
 
     /// <summary>

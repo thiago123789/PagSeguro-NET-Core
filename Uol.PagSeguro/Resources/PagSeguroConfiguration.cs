@@ -14,13 +14,13 @@
 
 using System;
 using System.Xml;
-using Uol.PagSeguro.Domain;
-using Uol.PagSeguro.XmlParse;
+using Nerdscode.PagSeguro.Domain;
+using Nerdscode.PagSeguro.XmlParse;
 using System.Reflection;
 using System.Diagnostics;
 using System.Web;
 
-namespace Uol.PagSeguro.Resources
+namespace Nerdscode.PagSeguro.Resources
 {
     /// <summary>
     /// 
@@ -28,7 +28,7 @@ namespace Uol.PagSeguro.Resources
     public static class PagSeguroConfiguration
     {
         //PagSeguro .NET Library Tests
-        private static string urlXmlConfiguration = ".../.../Configuration/PagSeguroConfig.xml";
+        private static string urlXmlConfiguration = ".../PagSeguroUrls.resx";
 
         //Website
         //private static string urlXmlConfiguration = HttpRuntime.AppDomainAppPath + "PagSeguroConfig.xml";

@@ -16,11 +16,11 @@ using System;
 using System.Collections.Generic;
 using System.Net;
 using System.Xml;
-using Uol.PagSeguro.Domain;
-using Uol.PagSeguro.Domain.Installment;
-using Uol.PagSeguro.Exception;
-using Uol.PagSeguro.Resources;
-using Uol.PagSeguro.Service;
+using Nerdscode.PagSeguro.Domain;
+using Nerdscode.PagSeguro.Domain.Installment;
+using Nerdscode.PagSeguro.Exception;
+using Nerdscode.PagSeguro.Resources;
+using Nerdscode.PagSeguro.Service;
 
 namespace GetInstallments
 {

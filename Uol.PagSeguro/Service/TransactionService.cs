@@ -18,16 +18,16 @@ using System.Globalization;
 using System.Net;
 using System.Web;
 using System.Xml;
-using Uol.PagSeguro.Domain;
-using Uol.PagSeguro.Domain.Direct;
-using Uol.PagSeguro.Exception;
-using Uol.PagSeguro.Log;
-using Uol.PagSeguro.Parse;
-using Uol.PagSeguro.Resources;
-using Uol.PagSeguro.Util;
-using Uol.PagSeguro.XmlParse;
+using Nerdscode.PagSeguro.Domain;
+using Nerdscode.PagSeguro.Domain.Direct;
+using Nerdscode.PagSeguro.Exception;
+using Nerdscode.PagSeguro.Log;
+using Nerdscode.PagSeguro.Parse;
+using Nerdscode.PagSeguro.Resources;
+using Nerdscode.PagSeguro.Util;
+using Nerdscode.PagSeguro.XmlParse;
 
-namespace Uol.PagSeguro.Service
+namespace Nerdscode.PagSeguro.Service
 {
     /// <summary>
     /// Encapsulates web service calls to search for PagSeguro transactions

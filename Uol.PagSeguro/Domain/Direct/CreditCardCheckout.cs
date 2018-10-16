@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using Uol.PagSeguro.Service;
+using Nerdscode.PagSeguro.Service;
 
-namespace Uol.PagSeguro.Domain.Direct
+namespace Nerdscode.PagSeguro.Domain.Direct
 {
     public class CreditCardCheckout : Checkout
     {

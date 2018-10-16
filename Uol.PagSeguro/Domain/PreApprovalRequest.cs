@@ -15,10 +15,10 @@
 using System;
 using System.Collections.Generic;
 using System.Text;
-using Uol.PagSeguro.Service;
+using Nerdscode.PagSeguro.Service;
 
 
-namespace Uol.PagSeguro.Domain
+namespace Nerdscode.PagSeguro.Domain
 {
     /// <summary>
     /// Represents a pre-approval request
@@ -146,7 +146,7 @@ namespace Uol.PagSeguro.Domain
         /// </summary>
         public PreApprovalRequest()
         {
-            this.Currency = Uol.PagSeguro.Constants.Currency.Brl;
+            this.Currency = Constants.Currency.Brl;
         }
 
         /// <summary>

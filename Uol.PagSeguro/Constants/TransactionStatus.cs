@@ -13,7 +13,7 @@
 //   limitations under the License.
 
 
-namespace Uol.PagSeguro.Constants
+namespace Nerdscode.PagSeguro.Constants
 {
     /// <summary>
     /// Defines a list of known transaction statuses.

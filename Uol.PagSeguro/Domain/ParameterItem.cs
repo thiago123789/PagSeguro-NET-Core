@@ -13,9 +13,9 @@
 //   limitations under the License.
 
 using System;
-using Uol.PagSeguro.Util;
+using Nerdscode.PagSeguro.Util;
 
-namespace Uol.PagSeguro.Domain
+namespace Nerdscode.PagSeguro.Domain
 {
     /// <summary>
     /// Represents a ParameterItem

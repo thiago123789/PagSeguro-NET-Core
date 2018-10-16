@@ -14,7 +14,7 @@
 
 using System;
 
-namespace Uol.PagSeguro.Domain
+namespace Nerdscode.PagSeguro.Domain
 {
     /// <summary>
     /// Represents a name value pair that composes a credential

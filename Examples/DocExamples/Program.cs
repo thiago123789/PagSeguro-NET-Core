@@ -14,10 +14,10 @@
 
 using System;
 using System.Web;
-using Uol.PagSeguro.Constants;
-using Uol.PagSeguro.Domain;
-using Uol.PagSeguro.Service;
-using Uol.PagSeguro.Resources;
+using Nerdscode.PagSeguro.Constants;
+using Nerdscode.PagSeguro.Domain;
+using Nerdscode.PagSeguro.Service;
+using Nerdscode.PagSeguro.Resources;
 
 namespace DocExamples
 {

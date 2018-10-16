@@ -14,10 +14,10 @@
 
 using System.Xml;
 using System;
-using Uol.PagSeguro.Constants;
-using Uol.PagSeguro.Domain;
+using Nerdscode.PagSeguro.Domain;
+using Nerdscode.PagSeguro.Constants;
 
-namespace Uol.PagSeguro.XmlParse
+namespace Nerdscode.PagSeguro.XmlParse
 {
 
 

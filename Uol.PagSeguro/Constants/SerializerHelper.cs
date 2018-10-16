@@ -13,7 +13,7 @@
 //   limitation
 
 
-namespace Uol.PagSeguro.Constants
+namespace Nerdscode.PagSeguro.Constants
 {
     /// <summary>
     /// 

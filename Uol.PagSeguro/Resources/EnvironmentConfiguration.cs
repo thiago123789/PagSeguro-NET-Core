@@ -15,17 +15,17 @@
 using System;
 using System.Collections;
 using System.Xml;
-using Uol.PagSeguro.Domain;
-using Uol.PagSeguro.XmlParse;
+using Nerdscode.PagSeguro.Domain;
+using Nerdscode.PagSeguro.XmlParse;
 using System.Reflection;
 using System.Diagnostics;
 using System.Globalization;
 using System.Resources;
 using System.Web;
 using System.Text.RegularExpressions;
-using Uol.PagSeguro.Exception;
+using Nerdscode.PagSeguro.Exception;
 
-namespace Uol.PagSeguro.Resources
+namespace Nerdscode.PagSeguro.Resources
 {
     /// <summary>
     /// 
@@ -34,18 +34,18 @@ namespace Uol.PagSeguro.Resources
     {
         private const string pagseguroUrl = "pagseguro.uol";
         private const string sandboxUrl = "sandbox.pagseguro.uol";
-
+        
         /// <summary>
         /// 
         /// </summary>
         public static void ChangeEnvironment(bool sandbox)
         {
-
+            var resourceSet = PagSeguroUrls.ResourceManager.GetResourceSet(CultureInfo.CurrentCulture, true, true);
             string urlXmlConfiguration = PagSeguroConfiguration.UrlXmlConfiguration;
 
             XmlDocument xml = new XmlDocument();
             xml.Load(urlXmlConfiguration);
-            XmlNodeList elemList = xml.GetElementsByTagName("Link");
+            XmlNodeList elemList = xml.GetElementsByTagName("data");
             bool changed = false;
 
             try

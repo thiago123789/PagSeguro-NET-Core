@@ -118,28 +118,28 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AuthorizationNotification" xml:space="preserve">
-    <value>https://ws.pagseguro.uol.com.br/v2/authorizations/notifications/</value>
+    <value>https://ws.sandbox.pagseguro.uol.com.br/v2/authorizations/notifications/</value>
   </data>
   <data name="AuthorizationRequest" xml:space="preserve">
-    <value>https://ws.pagseguro.uol.com.br/v2/authorizations/request</value>
+    <value>https://ws.sandbox.pagseguro.uol.com.br/v2/authorizations/request</value>
   </data>
   <data name="AuthorizationSearch" xml:space="preserve">
-    <value>https://ws.pagseguro.uol.com.br/v2/authorizations/</value>
+    <value>https://ws.sandbox.pagseguro.uol.com.br/v2/authorizations/</value>
   </data>
   <data name="AuthorizationURL" xml:space="preserve">
-    <value>https://pagseguro.uol.com.br/v2/authorization/request.jhtml</value>
+    <value>https://sandbox.pagseguro.uol.com.br/v2/authorization/request.jhtml</value>
   </data>
   <data name="Cancel" xml:space="preserve">
-    <value>https://ws.pagseguro.uol.com.br/v2/transactions/cancels</value>
+    <value>https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/cancels</value>
   </data>
   <data name="DirectPaymentInstallment" xml:space="preserve">
-    <value>https://ws.pagseguro.uol.com.br/v2/installments</value>
+    <value>https://ws.sandbox.pagseguro.uol.com.br/v2/installments</value>
   </data>
   <data name="DirectPaymentSession" xml:space="preserve">
-    <value>https://ws.pagseguro.uol.com.br/v2/sessions</value>
+    <value>https://ws.sandbox.pagseguro.uol.com.br/v2/sessions</value>
   </data>
   <data name="DirectPaymentTransactions" xml:space="preserve">
-    <value>https://ws.pagseguro.uol.com.br/v2/transactions</value>
+    <value>https://ws.sandbox.pagseguro.uol.com.br/v2/transactions</value>
   </data>
   <data name="Encoding" xml:space="preserve">
     <value>ISO-8859-1</value>
@@ -151,45 +151,45 @@
     <value>2.4.0</value>
   </data>
   <data name="Notification" xml:space="preserve">
-    <value>https://ws.pagseguro.uol.com.br/v3/transactions/notifications</value>
+    <value>https://ws.sandbox.pagseguro.uol.com.br/v3/transactions/notifications</value>
   </data>
   <data name="Payment" xml:space="preserve">
-    <value>https://ws.pagseguro.uol.com.br/v2/checkout</value>
+    <value>https://ws.sandbox.pagseguro.uol.com.br/v2/checkout</value>
   </data>
   <data name="PaymentRedirect" xml:space="preserve">
-    <value>https://pagseguro.uol.com.br/v2/checkout/payment.html</value>
+    <value>https://sandbox.pagseguro.uol.com.br/v2/checkout/payment.html</value>
   </data>
   <data name="PreApproval" xml:space="preserve">
-    <value>https://ws.pagseguro.uol.com.br/v2/pre-approvals/request</value>
+    <value>https://ws.sandbox.pagseguro.uol.com.br/v2/pre-approvals/request</value>
   </data>
   <data name="PreApprovalCancel" xml:space="preserve">
-    <value>https://ws.pagseguro.uol.com.br/v2/pre-approvals/cancel</value>
+    <value>https://ws.sandbox.pagseguro.uol.com.br/v2/pre-approvals/cancel</value>
   </data>
   <data name="PreApprovalNotification" xml:space="preserve">
-    <value>https://ws.pagseguro.uol.com.br/v2/pre-approvals/notifications</value>
+    <value>https://ws.sandbox.pagseguro.uol.com.br/v2/pre-approvals/notifications</value>
   </data>
   <data name="PreApprovalPayment" xml:space="preserve">
-    <value>https://ws.pagseguro.uol.com.br/v2/pre-approvals/payment</value>
+    <value>https://ws.sandbox.pagseguro.uol.com.br/v2/pre-approvals/payment</value>
   </data>
   <data name="PreApprovalRedirect" xml:space="preserve">
-    <value>https://pagseguro.uol.com.br/v2/pre-approvals/request.html</value>
+    <value>https://sandbox.pagseguro.uol.com.br/v2/pre-approvals/request.html</value>
   </data>
   <data name="PreApprovalRequest" xml:space="preserve">
-    <value>https://ws.pagseguro.uol.com.br/v2/pre-approvals/request</value>
+    <value>https://ws.sandbox.pagseguro.uol.com.br/v2/pre-approvals/request</value>
   </data>
   <data name="PreApprovalSearch" xml:space="preserve">
-    <value>https://ws.pagseguro.uol.com.br/v2/pre-approvals</value>
+    <value>https://ws.sandbox.pagseguro.uol.com.br/v2/pre-approvals</value>
   </data>
   <data name="Refund" xml:space="preserve">
-    <value>https://ws.pagseguro.uol.com.br/v2/transactions/refunds</value>
+    <value>https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/refunds</value>
   </data>
   <data name="RequestTimeout" xml:space="preserve">
     <value>10000</value>
   </data>
   <data name="Search" xml:space="preserve">
-    <value>https://ws.pagseguro.uol.com.br/v3/transactions</value>
+    <value>https://ws.sandbox.pagseguro.uol.com.br/v3/transactions</value>
   </data>
   <data name="SearchAbandoned" xml:space="preserve">
-    <value>https://ws.pagseguro.uol.com.br/v2/transactions</value>
+    <value>https://ws.sandbox.pagseguro.uol.com.br/v2/transactions</value>
   </data>
 </root>

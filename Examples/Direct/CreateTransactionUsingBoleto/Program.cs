@@ -14,12 +14,12 @@
 
 using System;
 using System.Net;
-using Uol.PagSeguro.Constants;
-using Uol.PagSeguro.Domain;
-using Uol.PagSeguro.Domain.Direct;
-using Uol.PagSeguro.Exception;
-using Uol.PagSeguro.Resources;
-using Uol.PagSeguro.Service;
+using Nerdscode.PagSeguro.Constants;
+using Nerdscode.PagSeguro.Domain;
+using Nerdscode.PagSeguro.Domain.Direct;
+using Nerdscode.PagSeguro.Exception;
+using Nerdscode.PagSeguro.Resources;
+using Nerdscode.PagSeguro.Service;
 
 namespace CreateTransactionUsingBoleto
 {

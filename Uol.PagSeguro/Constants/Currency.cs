@@ -13,7 +13,7 @@
 //   limitations under the License.
 
 
-namespace Uol.PagSeguro.Constants
+namespace Nerdscode.PagSeguro.Constants
 {
     /// <summary>
     /// Helper class to represent valid currencies

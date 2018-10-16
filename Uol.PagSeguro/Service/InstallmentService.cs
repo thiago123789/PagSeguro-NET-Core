@@ -6,15 +6,15 @@ using System.Net;
 using System.Text;
 using System.Web;
 using System.Xml;
-using Uol.PagSeguro.Domain;
-using Uol.PagSeguro.Domain.Installment;
-using Uol.PagSeguro.Exception;
-using Uol.PagSeguro.Log;
-using Uol.PagSeguro.Resources;
-using Uol.PagSeguro.Util;
-using Uol.PagSeguro.XmlParse;
+using Nerdscode.PagSeguro.Domain;
+using Nerdscode.PagSeguro.Domain.Installment;
+using Nerdscode.PagSeguro.Exception;
+using Nerdscode.PagSeguro.Log;
+using Nerdscode.PagSeguro.Resources;
+using Nerdscode.PagSeguro.Util;
+using Nerdscode.PagSeguro.XmlParse;
 
-namespace Uol.PagSeguro.Service
+namespace Nerdscode.PagSeguro.Service
 {
     public class InstallmentService
     {

@@ -13,10 +13,10 @@
 //   limitation
 
 using System.Xml;
-using Uol.PagSeguro.Constants;
-using Uol.PagSeguro.Domain;
+using Nerdscode.PagSeguro.Constants;
+using Nerdscode.PagSeguro.Domain;
 
-namespace Uol.PagSeguro.XmlParse
+namespace Nerdscode.PagSeguro.XmlParse
 {
     /// <summary>
     /// 

@@ -17,7 +17,7 @@ using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Text;
 
-namespace Uol.PagSeguro.Domain.Authorization
+namespace Nerdscode.PagSeguro.Domain.Authorization
 {
     /// <summary>
     /// Represents a page of authorization transactions returned by the authorization search service

@@ -15,7 +15,7 @@
 using System;
 using System.Text;
 
-namespace Uol.PagSeguro.Domain
+namespace Nerdscode.PagSeguro.Domain
 {
     /// <summary>
     /// Represents a summary of a PagSeguro transaction, typically returned by search services.

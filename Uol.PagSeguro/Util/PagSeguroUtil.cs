@@ -16,7 +16,7 @@ using System;
 using System.Text.RegularExpressions;
 using System.Xml;
 
-namespace Uol.PagSeguro.Util
+namespace Nerdscode.PagSeguro.Util
 {
     /// <summary>
     /// 
